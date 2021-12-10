@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+}
+
+div, p {
+    position: relative;
+    margin: 0px;
+}
+
+#obal-cely{
+    width:1300px;
+    margin:auto;
+}
+#platby {
+    width: 100%;
+    background-color: white;
+}
+#platby img {
+    height: 30px;}
+
+.levy {
+    float: left;
+    padding-top: 10px; ;
+    
+}
+.pravy {
+    float: right;
+    text-align: right;
+    padding-top: 10px; ;
+}
+.clear {
+    clear: both;
+}
